@@ -2,3 +2,11 @@
     height: auto;
     width: 400px;
 }
+
+ul, ol, ul {
+    font-family: Verdana, sans-serif;
+}
+
+p {
+    font-style: italic;
+}
