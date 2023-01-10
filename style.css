@@ -1,3 +1,7 @@
+body {
+    background-color: lightpink;
+}
+
 .image {
     height: auto;
     width: 400px;
@@ -5,8 +9,14 @@
 
 ul, ol, ul {
     font-family: Verdana, sans-serif;
+    color: black;
+    background-color: bisque;
 }
 
 p {
     font-style: italic;
+}
+
+.external-links {
+    background-color: aliceblue;
 }
